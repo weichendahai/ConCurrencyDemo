@@ -1,5 +1,4 @@
-# ConCurrencyDemo
-.
+```
 ├── ConCurrencyDemo.iml
 ├── MyBlockingQueue.uml
 ├── README.md
@@ -55,3 +54,4 @@
     │   └── resources
     └── test
         └── java
+```
